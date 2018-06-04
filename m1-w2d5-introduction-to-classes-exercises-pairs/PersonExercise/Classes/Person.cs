@@ -48,12 +48,13 @@ namespace TechElevator.Classes
             }
         }
 
-        public string GetFullName(string firstName, string lastName)
+        public string GetFullName()
         {
-            return firstName + lastName;
+            string fullName = firstName + " " + lastName;
+            return fullName;
         }
 
-        public bool IsAdult(int age)
+        public bool IsAdult()
         {
             if (age >= 18)
             {

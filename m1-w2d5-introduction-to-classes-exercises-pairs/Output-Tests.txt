@@ -1,0 +1,142 @@
+﻿[6/4/2018 1:24:37 PM Informational] ------ Load Playlist started ------
+[6/4/2018 1:24:37 PM Informational] ========== Load Playlist finished (0:00:00.0094229) ==========
+[6/4/2018 1:24:38 PM Informational] ------ Discover test started ------
+[6/4/2018 1:24:40 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:24:40 PM Informational] Test discovery completed, overall duration: 00:00:00.0627008
+[6/4/2018 1:24:40 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:24:40 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\CalculatorExercise\bin\Debug\CalculatorExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:24:40 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\CompanyExercise\bin\Debug\CompanyExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:24:40 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\DogExercise\bin\Debug\DogExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:24:40 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\PersonExercise\bin\Debug\PersonExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:24:40 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ProductExercise\bin\Debug\ProductExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:24:40 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:24:40 PM Informational] ========== Discover test finished: 24 found (0:00:02.6491407) ==========
+[6/4/2018 1:24:55 PM Informational] ------ Discover test started ------
+[6/4/2018 1:24:56 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:24:56 PM Informational] Test discovery completed, overall duration: 00:00:00.0498785
+[6/4/2018 1:24:56 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:24:56 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\DogExercise\bin\Debug\DogExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:24:56 PM Informational] ========== Discover test finished: 24 found (0:00:01.007526) ==========
+[6/4/2018 1:24:56 PM Informational] ------ Run test started ------
+[6/4/2018 1:25:00 PM Error] The active test run was aborted. Reason: Process is terminated due to StackOverflowException.
+
+[6/4/2018 1:25:00 PM Informational] ========== Run test finished: 0 run (0:00:03.5366817) ==========
+[6/4/2018 1:27:14 PM Informational] ------ Run test started ------
+[6/4/2018 1:27:18 PM Error] The active test run was aborted. Reason: Process is terminated due to StackOverflowException.
+
+[6/4/2018 1:27:18 PM Informational] ========== Run test finished: 9 run (0:00:03.8392661) ==========
+[6/4/2018 1:27:31 PM Informational] ------ Run test started ------
+[6/4/2018 1:27:35 PM Error] The active test run was aborted. Reason: Process is terminated due to StackOverflowException.
+
+[6/4/2018 1:27:35 PM Informational] ========== Run test finished: 0 run (0:00:03.8362352) ==========
+[6/4/2018 1:29:29 PM Informational] ------ Discover test started ------
+[6/4/2018 1:29:30 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:29:30 PM Informational] Test discovery completed, overall duration: 00:00:00.0530170
+[6/4/2018 1:29:30 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:29:30 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\CalculatorExercise\bin\Debug\CalculatorExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:29:30 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\CompanyExercise\bin\Debug\CompanyExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:29:30 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\DogExercise\bin\Debug\DogExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:29:30 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\PersonExercise\bin\Debug\PersonExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:29:30 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ProductExercise\bin\Debug\ProductExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:29:30 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:29:31 PM Informational] ========== Discover test finished: 24 found (0:00:01.6550064) ==========
+[6/4/2018 1:29:39 PM Informational] ------ Run test started ------
+[6/4/2018 1:29:40 PM Informational] ========== Run test finished: 1 run (0:00:00.8694907) ==========
+[6/4/2018 1:29:48 PM Informational] ------ Run test started ------
+[6/4/2018 1:29:51 PM Error] The active test run was aborted. Reason: Process is terminated due to StackOverflowException.
+
+[6/4/2018 1:29:51 PM Informational] ========== Run test finished: 0 run (0:00:03.3755142) ==========
+[6/4/2018 1:30:59 PM Informational] ------ Discover test started ------
+[6/4/2018 1:31:00 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:31:00 PM Informational] Test discovery completed, overall duration: 00:00:00.0683215
+[6/4/2018 1:31:00 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:31:00 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\DogExercise\bin\Debug\DogExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:31:00 PM Informational] ========== Discover test finished: 24 found (0:00:01.1050187) ==========
+[6/4/2018 1:31:00 PM Informational] ------ Run test started ------
+[6/4/2018 1:31:01 PM Informational] ========== Run test finished: 1 run (0:00:00.980595) ==========
+[6/4/2018 1:32:12 PM Informational] ------ Discover test started ------
+[6/4/2018 1:32:13 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:32:13 PM Informational] Test discovery completed, overall duration: 00:00:00.0489448
+[6/4/2018 1:32:13 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:32:13 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\DogExercise\bin\Debug\DogExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:32:13 PM Informational] ========== Discover test finished: 24 found (0:00:00.9025896) ==========
+[6/4/2018 1:32:13 PM Informational] ------ Run test started ------
+[6/4/2018 1:33:42 PM Error] The active test run was aborted. Reason: Unable to communicate with test host process.
+[6/4/2018 1:33:42 PM Informational] ========== Run test finished: 0 run (0:01:29.4387018) ==========
+[6/4/2018 1:33:50 PM Informational] ------ Discover test started ------
+[6/4/2018 1:33:51 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:33:51 PM Informational] Test discovery completed, overall duration: 00:00:00.0507481
+[6/4/2018 1:33:51 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:33:51 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\DogExercise\bin\Debug\DogExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:33:51 PM Informational] ========== Discover test finished: 24 found (0:00:01.0358321) ==========
+[6/4/2018 1:33:51 PM Informational] ------ Run test started ------
+[6/4/2018 1:33:52 PM Informational] ========== Run test finished: 1 run (0:00:00.8555118) ==========
+[6/4/2018 1:33:55 PM Informational] ------ Run test started ------
+[6/4/2018 1:33:56 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:33:56 PM Informational] ========== Run test finished: 24 run (0:00:01.3217598) ==========
+[6/4/2018 1:34:29 PM Informational] ------ Discover test started ------
+[6/4/2018 1:34:29 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:34:29 PM Informational] Test discovery completed, overall duration: 00:00:00.0575295
+[6/4/2018 1:34:29 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:34:29 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\DogExercise\bin\Debug\DogExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:34:30 PM Informational] ========== Discover test finished: 24 found (0:00:00.9736501) ==========
+[6/4/2018 1:34:30 PM Informational] ------ Run test started ------
+[6/4/2018 1:34:30 PM Informational] ========== Run test finished: 1 run (0:00:00.8952806) ==========
+[6/4/2018 1:34:54 PM Informational] ------ Run test started ------
+[6/4/2018 1:34:55 PM Informational] ========== Run test finished: 1 run (0:00:00.9022893) ==========
+[6/4/2018 1:37:40 PM Informational] ------ Discover test started ------
+[6/4/2018 1:37:40 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:37:40 PM Informational] Test discovery completed, overall duration: 00:00:00.0480567
+[6/4/2018 1:37:40 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:37:40 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:37:41 PM Informational] ========== Discover test finished: 24 found (0:00:00.9791061) ==========
+[6/4/2018 1:37:41 PM Informational] ------ Run test started ------
+[6/4/2018 1:37:42 PM Informational] ========== Run test finished: 1 run (0:00:01.0093047) ==========
+[6/4/2018 1:38:35 PM Informational] ------ Run test started ------
+[6/4/2018 1:39:42 PM Error] The active test run was aborted. Reason: Unable to communicate with test host process.
+[6/4/2018 1:39:42 PM Informational] ========== Run test finished: 0 run (0:01:07.4999528) ==========
+[6/4/2018 1:39:48 PM Informational] ------ Discover test started ------
+[6/4/2018 1:39:48 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:39:48 PM Informational] Test discovery completed, overall duration: 00:00:00.0503048
+[6/4/2018 1:39:48 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:39:48 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:39:48 PM Informational] ========== Discover test finished: 24 found (0:00:00.9240819) ==========
+[6/4/2018 1:39:48 PM Informational] ------ Run test started ------
+[6/4/2018 1:39:49 PM Informational] ========== Run test finished: 1 run (0:00:00.863693) ==========
+[6/4/2018 1:40:00 PM Informational] ------ Run test started ------
+[6/4/2018 1:41:45 PM Error] The active test run was aborted. Reason: Unable to communicate with test host process.
+[6/4/2018 1:41:45 PM Informational] ========== Run test finished: 0 run (0:01:45.4315568) ==========
+[6/4/2018 1:42:26 PM Informational] ------ Discover test started ------
+[6/4/2018 1:42:27 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:42:27 PM Informational] Test discovery completed, overall duration: 00:00:00.0515233
+[6/4/2018 1:42:27 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:42:27 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:42:27 PM Informational] ========== Discover test finished: 24 found (0:00:01.0830744) ==========
+[6/4/2018 1:42:27 PM Informational] ------ Run test started ------
+[6/4/2018 1:42:28 PM Informational] ========== Run test finished: 1 run (0:00:00.9557727) ==========
+[6/4/2018 1:44:15 PM Informational] ------ Discover test started ------
+[6/4/2018 1:44:16 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:44:16 PM Informational] Test discovery completed, overall duration: 00:00:00.0497011
+[6/4/2018 1:44:16 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:44:16 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:44:16 PM Informational] ========== Discover test finished: 24 found (0:00:00.9499428) ==========
+[6/4/2018 1:44:16 PM Informational] ------ Run test started ------
+[6/4/2018 1:44:17 PM Informational] ========== Run test finished: 1 run (0:00:00.8891208) ==========
+[6/4/2018 1:44:34 PM Informational] ------ Run test started ------
+[6/4/2018 1:44:35 PM Informational] ========== Run test finished: 4 run (0:00:00.9101049) ==========
+[6/4/2018 1:45:43 PM Informational] ------ Discover test started ------
+[6/4/2018 1:45:45 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:45:45 PM Informational] Test discovery completed, overall duration: 00:00:00.0567939
+[6/4/2018 1:45:45 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:45:45 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:45:45 PM Informational] ========== Discover test finished: 24 found (0:00:01.4080528) ==========
+[6/4/2018 1:45:45 PM Informational] ------ Run test started ------
+[6/4/2018 1:45:46 PM Informational] ========== Run test finished: 1 run (0:00:00.9542681) ==========
+[6/4/2018 1:48:12 PM Informational] ------ Discover test started ------
+[6/4/2018 1:48:13 PM Informational] Test Adapter for Google Test: Test discovery starting...
+[6/4/2018 1:48:13 PM Informational] Test discovery completed, overall duration: 00:00:00.0496123
+[6/4/2018 1:48:13 PM Informational] Logger initialized. Logging to C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO\2017\COMMUNITY\COMMON7\IDE\EXTENSIONS\5RESBQJP.LGW\BoostTestAdapter.dll.log
+[6/4/2018 1:48:13 PM Warning] Could not locate debug symbols for 'C:\Users\rsherman\team8-c-week2-pair-exercises\m1-w2d5-introduction-to-classes-exercises-pairs\ShoppingCartExercise\bin\Debug\ShoppingCartExercise.exe'. To make use of '--list_content' discovery, ensure that debug symbols are available or make use of '<ForceListContent>' via a .runsettings file.
+[6/4/2018 1:48:13 PM Informational] ========== Discover test finished: 24 found (0:00:00.9651103) ==========
+[6/4/2018 1:48:13 PM Informational] ------ Run test started ------
+[6/4/2018 1:48:14 PM Informational] ========== Run test finished: 1 run (0:00:00.9242295) ==========

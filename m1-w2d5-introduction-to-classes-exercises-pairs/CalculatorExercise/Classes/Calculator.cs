@@ -15,7 +15,8 @@ namespace TechElevator.Classes
 
         public Calculator(int startingResult)
         {
-            result = startingResult;
+            Result = startingResult;
+            //Caps?
         }
 
         public int Result
@@ -24,36 +25,45 @@ namespace TechElevator.Classes
             {
                 return result;
             }
+            private set
+            {
+                result = value;
+            }
         }
 
         public int Add(int addend)
         {
-            result = Result + addend;
-            return result;
+            Result = Result + addend;
+            return Result;
             //Readme says (R)esult
         }
 
         public int Subtract(int subtrahend)
         {
-            result = Result - subtrahend;
-            return result;
+            Result = Result - subtrahend;
+            return Result;
             //Readme says (R)esult
         }
 
-        public int Multipy(int multiplier)
+        public int Multiply(int multiplier)
         {
-            result = Result * multiplier;
-            return result;
+            Result = Result * multiplier;
+            return Result;
             //Readme says (R)esult
         }
 
         public int Power(int exponent)
         {
-            for (int i = 0; i <= exponent; i++)
+            if (exponent<0)
             {
-                result = result * result;
+                exponent = exponent * (-1);
             }
-            return result;
+
+            
+            Result = (int)Math.Pow(Result, exponent); 
+            
+                return Result;
+            
             //Readme says (R)esult
         }
 

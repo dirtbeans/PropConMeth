@@ -17,7 +17,7 @@ namespace TechElevator.Classes
 
         public Dog()
         {
-            isSleeping = false;
+           isSleeping = false;
         }
 
 
@@ -25,7 +25,11 @@ namespace TechElevator.Classes
         {
             get
             {
-                return true;
+                return isSleeping;
+            }
+            private set
+            {
+                isSleeping = value;
             }
         }
 

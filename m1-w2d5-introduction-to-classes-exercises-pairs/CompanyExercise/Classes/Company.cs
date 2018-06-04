@@ -9,29 +9,27 @@ namespace TechElevator.Classes
     public class Company
     {
         //private instance variables
-        private string nameOfCompany;
+        private string name;
         private int numberOfEmployees;
         private decimal revenue;
         private decimal expenses;
 
         //constructors
-        public Company()
-        {
-            nameOfCompany = "Name";
-        }
-        /*
         public Company(string startingName)
         {
-            nameOfCompany = "Name";
+            name = startingName;
         }
-        */
-        //properties
+       
 
-        public string NameOfCompany
+        public string Name
         {
             get
             {
-                return nameOfCompany;
+                return name;
+            }
+            private set
+            {
+                name = value;
             }
         }
 
@@ -93,19 +91,20 @@ namespace TechElevator.Classes
         }
 
         //methods
-        public decimal Subtract(decimal revenue, decimal expenses)
+        public decimal GetProfit()
         {
+            decimal profit = revenue - expenses;
 
-            return revenue - expenses;
+            return profit;
         }
 
-        public string Size(int numberOfEmployees)
+        public string GetCompanySize()
         {
             if (numberOfEmployees < 50)
             {
                 return "small";
             }
-            else if (numberOfEmployees > 50 && numberOfEmployees < 250)
+            else if (numberOfEmployees >=50 && numberOfEmployees <= 250)
             {
                 return "medium";
             }
